@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EditorDiscordRichPresence.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4Projects\Projects\MarbleRun\Intermediate\Build\Win64\MarbleRunEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\UE4Projects\Projects\MarbleRun\Plugins\Discord\EditorDiscordRichPresence\Intermediate\Build\Win64\UE4Editor\Development\EditorDiscordRichPresence\Module.EditorDiscordRichPresence.cpp.obj"
+"D:\UE4Projects\Projects\MarbleRun\Plugins\Discord\EditorDiscordRichPresence\Intermediate\Build\Win64\UE4Editor\Development\EditorDiscordRichPresence\Default.rc2.res"
+/OUT:"D:\UE4Projects\Projects\MarbleRun\Plugins\Discord\EditorDiscordRichPresence\Intermediate\Build\Win64\UE4Editor\Development\EditorDiscordRichPresence\UE4Editor-EditorDiscordRichPresence.lib"
+/INCLUDE:IMPLEMENT_MODULE_EditorDiscordRichPresence
